@@ -1,0 +1,8 @@
+body,html,div,p,h1,h2,h3,h4,h5,h6,form,select,ul,li,ol,dl,dt,dd,input,option{
+	margin:0;padding:0;
+}
+body,html{height:100%;font-size:12px;font-family: "微软雅黑";}
+img{border:none}
+ul,li,ol{list-style: none;}
+a{text-decoration: none;}
+.clear{width:0;height:0;overflow: hidden;clear: both;}

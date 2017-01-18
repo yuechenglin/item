@@ -1,0 +1,222 @@
+/*-----------以下是nav--------------*/
+.nav{
+	width:100%;background:#33353d;height:40px;
+}
+.nav-content{
+	width:1264px;height:40px;margin:0 auto;
+}
+.nav-content dl{
+	margin-left:25px;width:200px;float:left;z-index:10;position:relative;
+}
+.nav-content .nav-right{
+	float:left;
+}
+.nav-content .nav-right li{
+	float:left;height:40px;font-size:16px;color:#fff;
+	line-height:40px;cursor:pointer;
+} 
+.nav-content .nav-right li a{
+	display:block;padding:0 25px 0 25px;
+}
+.nav-content .nav-right li a:hover{
+	background:#00bbd7;
+}
+.nav-content dt{
+	width:165px;height:40px;font-size:16px;
+	color:#fff;line-height:40px;padding-left:35px;
+	background:#191a1e;
+}
+.nav-content dt a{
+	cursor:pointer;
+}
+.nav-content dd{
+	width:175px;height:42px;line-height:42px;font-size:16px;
+	padding-left:25px;background:#d6d6d6;
+}
+.nav-content dd a{
+	cursor:pointer;display:block;
+}
+#nav-first .title-a{
+	display:block;cursor:pointer;
+}
+#nav-first .title-a:hover{
+	color:#00bbd7;
+}
+#nav-first a{
+	display:inline-block;cursor:pointer;
+}
+.nav-content .joker{
+	height:44px;
+}
+.nav-content dd:hover{
+	background:#fff;color:#00bbd7;
+}
+.nav-content dd img{
+	vertical-align:middle;
+}
+/*---------------以上是nav--------------------*/
+
+/*---------------以下是banner--------------------*/
+.banner{
+	width:100%;height:378px;background:#f3f3f3;
+}
+#b-content{
+	width:1264px;height:378px;position:relative;
+}
+#b-content div{
+	position:absolute;overflow:hidden;
+}
+/*---------------以上是banner--------------------*/
+/*---------------以下是nav列表--------------------*/
+#nav-first{
+	width:775px;height:380px;background:#fff;position:absolute;
+	left:200px;top:40px;background:#fff;display:none;
+}
+
+#first-left{
+	width:225px;
+	height:344px;
+	float:left;
+	padding-top:10px;
+	margin-left:22px;
+}
+
+#first-center{
+	width:225px;
+	height:344px;
+	float:left;
+	padding-top:10px;
+	margin-left:22px;
+}
+
+#first-right{
+	width:225px;
+	height:344px;
+	float:left;
+	padding-top:10px;
+	margin-left:22px;
+}
+
+h3{
+	width:210px;
+	height:35px;
+	line-height:35px;
+	margin-left:15px;
+	font-size:15px;
+	border-bottom:1px solid #c1c1c1;
+}
+.h3-container{
+	width:210px;
+	height:35px;
+}
+
+#fleft-middle{
+	width:210px;
+	/*height:245px;*/
+	padding-left:15px;
+}
+
+#left-box{
+	width:210px;
+	height:245px;
+}
+
+#center-box{
+	width:210px;
+	height:245px;
+}
+
+#right-box{
+	width:210px;
+	height:245px;
+}
+
+#fleft-middle li{
+	font-size:15px;
+	width:100%;
+	height:30px;
+	line-height:30px;
+}
+
+#fcenter-middle{
+	width:210px;
+	/*height:245px;*/
+	padding-left:15px;
+}
+
+#fcenter-middle li{
+	font-size:15px;
+	width:100%;
+	height:30px;
+	line-height:30px;
+}
+
+#fright-middle01{
+	width:210px;
+	/*height:150px;*/
+	padding-left:15px;
+}
+
+#fright-middle01 li{
+	font-size:15px;
+	width:100%;
+	height:30px;
+	line-height:30px;
+}
+
+#fright-middle02{
+	width:210px;
+	/*height:60px;*/
+	padding-left:15px;
+}
+
+#fright-middle02 li{
+	font-size:15px;
+	width:100%;
+	height:30px;
+	line-height:30px;
+}
+
+.navlist-img{
+	width:225px;
+	height:63px;
+	
+}
+
+.navlist-img img{
+	width:225px;
+}
+/*
+#fleft-img{
+	display:block;
+	width:225px;
+	height:63px;
+	background:red;
+}
+
+#fcenter-img{
+	display:block;
+	width:225px;
+	height:63px;
+	background:red;
+}
+
+#fright-img{
+	display:block;
+	width:225px;
+	height:63px;
+	background:red;
+}
+*/
+
+/*---------------以上是nav列表--------------------*/
+
+
+
+
+
+
+
+
+
+

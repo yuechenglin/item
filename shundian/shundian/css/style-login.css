@@ -1,0 +1,74 @@
+<!----------------以下是 header---------->
+.header{
+	width:100%;overflow:hidden;height:86px;
+}
+.h-content{
+	width:1264px;height:86px;margin:0 auto;
+	
+}
+
+.h-left{
+	width:197px;height:48px;
+	padding:18px 0 0 38px;
+}
+.h-left a {cursor:pointer;}
+<!----------------以上是 header---------->
+
+
+<!----------------以下是 main---------->
+.main{
+	width:100%;height:600px;
+	background-color:red;
+}
+.login{
+	width:302px;height:392px;float:right;
+	position:absolute;top:130px;right:50px;
+	box-shadow:0 0 20px #999;padding:0 25px 0 25px;
+}
+.p01{
+	height:55px;font-size:18px;padding-top:20px;
+}
+#l-ipt{
+	height:40px;border:1px solid #999;margin-bottom:15px;
+	width:100%;
+}	
+#l-pwd{
+	height:40px;border:1px solid #999;
+	width:100%;
+}
+.span01{
+	display:block;height:25px;padding-top:20px;font-size:14px;
+	word-spacing:130px;
+}
+#sub{
+	height:40px;width:100%;color:#fff;font-size:20px;
+	background:#00bad6;letter-spacing:1em;text-align:center;
+}
+.p02{
+	font-size:12px;line-height:14px;
+}
+.span02{
+	font-size:14px;color:#57d1f0;line-height:30px;
+}
+<!----------------以上是 main---------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
