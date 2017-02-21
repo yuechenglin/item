@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/common.css"/>
+		<link rel="stylesheet" type="text/css" href="css/style-regist.css" />
+		<script type="text/javascript" src="js/Ajax.js"></script>
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/regist.js"></script>
+		<script type="text/javascript">
+			window.onload=function (){
+				main();
+			}
+		</script>
+	</head>
+	<body>
+		<!----------------以下是header---------->	
+		<div class="header">
+			<div class="h-content">
+				<div class="h-left">
+					<a alt=""><img alt="" src="images/header/logo.png"/></a>
+				</div>
+				
+			</div>
+		</div>
+	<!----------------以上是header---------->
+	<!----------------以下是main---------->
+	<div class="main">
+		<div class="main-content">
+			<div class="regist">
+				<p class="p01">用户注册</p>
+				<input id="r-ipt" type="text" placeholder="用户名/邮箱地址/手机号"/><span id="first"></span>
+				<br/>
+				
+				<input id="r-pwd" type="password" placeholder="填设置登录密码，6-20个字符"/><span id="second"></span>
+				<br/>
+				<input id="qr" type="password" placeholder="请再次确认登录密码"/>
+				<span class="span01">
+					<input type="checkbox"/> 
+					我已阅读并同意
+					<a>会员注册协议</a>和<a>隐私保护政策</a>
+				</span>
+				<br/>
+				<input id="sub" type="submit" value="注册"/>
+				<p class="p02">
+					已有顺电账号
+					<span class="span02">
+					<a href="login.html">直接登录</a>
+					</span>
+				</p>
+			</div>
+		</div>
+	</div>
+	<!----------------以上是main---------->
+	
+	<!----------------foot---------->
+	<div id="foot">
+		
+	</div>
+	</body>
+</html>
